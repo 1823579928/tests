@@ -8,4 +8,5 @@ package test;
  */
 public class test1 {
     int i;
+    int x;
 }
