@@ -2,11 +2,9 @@ package test;
 
 /**
  * @author ZouJie
- * @ClassName test2
- * @description
+ * @ClassName Test1
+ * @description test
  * @date 2020/9/22
  */
-public class test2 {
-    int x;
-    int j;
+public class Test1 {
 }
