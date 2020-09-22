@@ -1,15 +1,11 @@
-package test;
-
 /**
  * @author ZouJie
- * @ClassName test1
+ * @ClassName dsa
  * @description
  * @date 2020/9/22
  */
-public class test1 {
-    int i;
-
+public class dsa {
     public static void main(String[] args) {
-        System.out.println("1");
+
     }
 }
