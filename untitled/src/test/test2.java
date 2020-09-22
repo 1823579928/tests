@@ -9,5 +9,4 @@ package test;
 public class test2 {
     int x;
     int j;
-    int i;
 }
